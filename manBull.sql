@@ -68,4 +68,4 @@ INSERT INTO employee_projects (employee_id, project_id) VALUES
 (3, 1), -- Obinna → Website Revamp
 (4, 2), -- Abbey → Marketing Campaign
 (8, 2), -- Jessica → Marketing Campaign
-(10, 1); -- Lucy → Website Revamp
+(10, 1); -- Favour → Website Revamp
